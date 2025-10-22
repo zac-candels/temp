@@ -1,0 +1,206 @@
+/work/y07/shared/cirrus-software/miniconda3/4.12.0-py39/lib/python3.9/site-packages/matplotlib/quiver.py:649: RuntimeWarning: divide by zero encountered in scalar divide
+  length = a * (widthu_per_lenu / (self.scale * self.width))
+/work/y07/shared/cirrus-software/miniconda3/4.12.0-py39/lib/python3.9/site-packages/matplotlib/quiver.py:649: RuntimeWarning: invalid value encountered in multiply
+  length = a * (widthu_per_lenu / (self.scale * self.width))
+max v:  0.0
+data/Velocity_t0.mat
+max v:  0.001243393704443895
+data/Velocity_t2000.mat
+max v:  0.0008169723661444492
+data/Velocity_t4000.mat
+max v:  0.0007035358245657047
+data/Velocity_t6000.mat
+max v:  0.0008035050991598791
+data/Velocity_t8000.mat
+max v:  0.001006463407995933
+data/Velocity_t10000.mat
+max v:  0.0011526250309866226
+data/Velocity_t12000.mat
+max v:  0.001147392563373133
+data/Velocity_t14000.mat
+max v:  0.0007853103945488916
+data/Velocity_t16000.mat
+max v:  0.0004752865651712403
+data/Velocity_t18000.mat
+max v:  0.0003555583789023859
+data/Velocity_t20000.mat
+max v:  0.00032637678349812073
+data/Velocity_t22000.mat
+max v:  0.000307328618476014
+data/Velocity_t24000.mat
+max v:  0.00035936352906800536
+data/Velocity_t26000.mat
+max v:  0.0005042745066490111
+data/Velocity_t28000.mat
+max v:  0.0006811892232477255
+data/Velocity_t30000.mat
+max v:  0.0007505204634336577
+data/Velocity_t32000.mat
+max v:  0.0007877091081916738
+data/Velocity_t34000.mat
+max v:  0.0007761652757662086
+data/Velocity_t36000.mat
+max v:  0.0006481529844751351
+data/Velocity_t38000.mat
+max v:  0.00041501652960223125
+data/Velocity_t40000.mat
+max v:  0.0003425179057028364
+data/Velocity_t42000.mat
+max v:  0.000308392792319212
+data/Velocity_t44000.mat
+max v:  0.000297233408953269
+data/Velocity_t46000.mat
+max v:  0.00027709442391492847
+data/Velocity_t48000.mat
+max v:  0.0002479297557602906
+data/Velocity_t50000.mat
+max v:  0.0002150407689837866
+data/Velocity_t52000.mat
+max v:  0.00018274677756649452
+data/Velocity_t54000.mat
+max v:  0.00015343422727955822
+data/Velocity_t56000.mat
+max v:  0.00012806042774721603
+data/Velocity_t58000.mat
+max v:  0.0001067433846857508
+data/Velocity_t60000.mat
+max v:  8.917806086237645e-05
+data/Velocity_t62000.mat
+max v:  7.490169266173283e-05
+data/Velocity_t64000.mat
+max v:  6.342073253411811e-05
+data/Velocity_t66000.mat
+max v:  5.427220999185733e-05
+data/Velocity_t68000.mat
+max v:  4.704691763099356e-05
+data/Velocity_t70000.mat
+max v:  4.139419600276364e-05
+data/Velocity_t72000.mat
+max v:  3.701877465631709e-05
+data/Velocity_t74000.mat
+max v:  3.3674730433893576e-05
+data/Velocity_t76000.mat
+max v:  3.115882065847483e-05
+data/Velocity_t78000.mat
+max v:  2.9304113145023094e-05
+data/Velocity_t80000.mat
+max v:  2.797424297335753e-05
+data/Velocity_t82000.mat
+max v:  2.7058378741252113e-05
+data/Velocity_t84000.mat
+max v:  2.6466882392977646e-05
+data/Velocity_t86000.mat
+max v:  2.6127608911926048e-05
+data/Velocity_t88000.mat
+max v:  2.5982779020161902e-05
+data/Velocity_t90000.mat
+max v:  2.598635527156127e-05
+data/Velocity_t92000.mat
+max v:  2.6101854194715865e-05
+data/Velocity_t94000.mat
+max v:  2.6300531936168415e-05
+data/Velocity_t96000.mat
+max v:  2.655988692338581e-05
+data/Velocity_t98000.mat
+max v:  2.6862429626685913e-05
+data/Velocity_t100000.mat
+max v:  2.7194675957113472e-05
+data/Velocity_t102000.mat
+max v:  2.7546326951870525e-05
+data/Velocity_t104000.mat
+max v:  2.7909602923252424e-05
+data/Velocity_t106000.mat
+max v:  2.8278705169825882e-05
+data/Velocity_t108000.mat
+max v:  2.864938262232048e-05
+data/Velocity_t110000.mat
+max v:  2.9018584500673555e-05
+data/Velocity_t112000.mat
+max v:  2.9384183209023946e-05
+data/Velocity_t114000.mat
+max v:  2.9744754376306426e-05
+data/Velocity_t116000.mat
+max v:  3.0099403209486085e-05
+data/Velocity_t118000.mat
+max v:  3.0447628238276626e-05
+data/Velocity_t120000.mat
+max v:  3.078921511076967e-05
+data/Velocity_t122000.mat
+max v:  3.112415443998291e-05
+data/Velocity_t124000.mat
+max v:  3.1452578808782766e-05
+data/Velocity_t126000.mat
+max v:  3.1774714944872155e-05
+data/Velocity_t128000.mat
+max v:  3.209084785353864e-05
+data/Velocity_t130000.mat
+max v:  3.2401294314169116e-05
+data/Velocity_t132000.mat
+max v:  3.270638364658169e-05
+data/Velocity_t134000.mat
+max v:  3.300644408988999e-05
+data/Velocity_t136000.mat
+max v:  3.330179347587177e-05
+data/Velocity_t138000.mat
+max v:  3.359273313967401e-05
+data/Velocity_t140000.mat
+max v:  3.3879544251008775e-05
+data/Velocity_t142000.mat
+max v:  3.416248592882209e-05
+data/Velocity_t144000.mat
+max v:  3.4441925812209046e-05
+data/Velocity_t146000.mat
+max v:  3.4718127731508925e-05
+data/Velocity_t148000.mat
+max v:  3.4991103072902065e-05
+data/Velocity_t150000.mat
+max v:  3.5261023995569136e-05
+data/Velocity_t152000.mat
+max v:  3.552804402180771e-05
+data/Velocity_t154000.mat
+max v:  3.579229965297446e-05
+data/Velocity_t156000.mat
+max v:  3.605391200818652e-05
+data/Velocity_t158000.mat
+max v:  3.631298842266634e-05
+data/Velocity_t160000.mat
+max v:  3.656962397351952e-05
+data/Velocity_t162000.mat
+max v:  3.682390290412201e-05
+data/Velocity_t164000.mat
+max v:  3.70758999329472e-05
+data/Velocity_t166000.mat
+max v:  3.732568144550103e-05
+data/Velocity_t168000.mat
+max v:  3.757330656404981e-05
+data/Velocity_t170000.mat
+max v:  3.781882810432791e-05
+data/Velocity_t172000.mat
+max v:  3.806229341731038e-05
+data/Velocity_t174000.mat
+max v:  3.830374513851846e-05
+data/Velocity_t176000.mat
+max v:  3.854322183680897e-05
+data/Velocity_t178000.mat
+max v:  3.878075857959236e-05
+data/Velocity_t180000.mat
+max v:  3.9016387426594726e-05
+data/Velocity_t182000.mat
+max v:  3.925013785295471e-05
+data/Velocity_t184000.mat
+max v:  3.948203711615775e-05
+data/Velocity_t186000.mat
+max v:  3.971211056650211e-05
+data/Velocity_t188000.mat
+max v:  3.9940381917653075e-05
+data/Velocity_t190000.mat
+max v:  4.016700592315528e-05
+data/Velocity_t192000.mat
+max v:  4.039198213554744e-05
+data/Velocity_t194000.mat
+max v:  4.061521737976834e-05
+data/Velocity_t196000.mat
+max v:  4.083673078846624e-05
+data/Velocity_t198000.mat
+max v:  4.105654070709302e-05
+data/Velocity_t200000.mat

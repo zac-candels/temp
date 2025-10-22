@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/mnt/lustre/e1000/home/sc139/sc139/s2767572/centroidVelLandscape_lx100_pts90/test_CA95_postFrac0.6/Analysis.py", line 10, in <module>
+    HeaderFile = open(datadir+"Header.mat", 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: 'data/Header.mat'
